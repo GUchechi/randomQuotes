@@ -7,7 +7,7 @@
 .App {
   min-height: 100vh;
   display: flex;
-  background: #664b92;
+  background: rgb(3, 10, 26);
   text-align: center;
 }
 
@@ -43,7 +43,7 @@ p:last-of-type {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #6b68ff;
+  background: blue;
   color: #fff;
   width: 80px;
   padding: 7px 0;
